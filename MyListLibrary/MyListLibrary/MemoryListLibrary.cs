@@ -28,6 +28,10 @@ namespace MemoryListLibrary.Library
         {
             return _list.Contains(item);
         }
+        public int Length()
+        {
+            return _list.Count;
+        }
 
     }
 }
