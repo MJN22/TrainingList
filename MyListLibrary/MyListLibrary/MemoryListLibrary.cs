@@ -2,7 +2,7 @@
 
 namespace MyListLibrary
 {
-    public class Class1
+    public class MemoryListLibrary
     {
     }
 }
